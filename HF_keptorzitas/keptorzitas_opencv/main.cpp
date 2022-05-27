@@ -1,9 +1,9 @@
 /*
-Varga Csaba - K04JA8
-Porgramozás alapjai 2 - nagy házi feladat
+Varga Csaba - K0****
+PorgramozÃ¡s alapjai 2 - nagy hÃ¡zi feladat
 2021/2022/2
-fénykép torzítás megszûntetése
-Felhasznált külsõ libraryk: OpenCV - https://opencv.org/	Windows.h
+fÃ©nykÃ©p torzÃ­tÃ¡s megszÃ»ntetÃ©se
+FelhasznÃ¡lt kÃ¼lsÃµ libraryk: OpenCV - https://opencv.org/	Windows.h
 GitHub - https://github.com/Agravr6/prog2_HF
 */
 #include "BitMap.h"
